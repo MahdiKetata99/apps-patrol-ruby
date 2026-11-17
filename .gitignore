@@ -1,0 +1,7 @@
+*.gem
+.bundle/
+vendor/bundle/
+tmp/
+.ruby-version
+.ruby-gemset
+.rspec_status
